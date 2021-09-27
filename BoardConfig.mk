@@ -20,7 +20,6 @@ DEVICE_PATH := device/elink/tb8766p1
 ALLOW_MISSING_DEPENDENCIES := true
 
 # Architecture
-# Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
 TARGET_CPU_ABI := arm64-v8a
